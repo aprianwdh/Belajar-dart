@@ -99,10 +99,10 @@ void main() {
   }
 
   //not atau kebalikan (!)
-  if (!true) {
-    //kebalikan dari true adalah false
-    print("true");
-  } else {
-    print("false");
-  }
+//   if (!true) {
+//     //kebalikan dari true adalah false
+//     print("true");
+//   } else {
+//     print("false");
+//   }
 }
