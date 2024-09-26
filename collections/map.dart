@@ -15,8 +15,4 @@ void main() {
   nemMap["thailand"] = "bangkok";
   print(nemMap.keys);
   print(nemMap.values);
-
-  for (int i = 0; i < nemMap.length; i++) {
-    print(nemMap.keys);
-  }
 }
